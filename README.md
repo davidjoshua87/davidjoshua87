@@ -24,14 +24,8 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<b>Git Activeness</b>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidjoshua87&show_icons=true&theme=radical&locale=en&layout=compact" alt="davidjoshua87" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=davidjoshua87&show_icons=true&theme=radical&locale=en" alt="davidjoshua87" /></p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidjoshua87&show_icons=true&theme=radical&locale=en&layout=compact" alt="davidjoshua87" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=davidjoshua87&show_icons=true&theme=radical&locale=en" alt="davidjoshua87" /></p>
 <br/>
 <hr/>
 <p align="center">
