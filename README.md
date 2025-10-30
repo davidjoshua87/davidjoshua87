@@ -118,17 +118,17 @@ crafting beautiful and responsive web applications with modern technologies.
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Contribution Activity
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=davidjoshua87&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=ffffff)
+![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=davidjoshua87&show_icons=true&theme=radical&locale=en&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
 
 ---
 
-## 📊 Additional Stats
+## 📊 Profile Summary
 
-![All Repositories](https://img.shields.io/badge/Repos-Count-blue?style=flat-square&logo=github)
-![Total Commits](https://img.shields.io/badge/Commits-Tracking-brightgreen?style=flat-square&logo=github)
-![Last Updated](https://img.shields.io/badge/Updated-Today-important?style=flat-square&logo=github)
+[![GitHub followers](https://img.shields.io/github/followers/davidjoshua87?style=for-the-badge&label=followers&logo=github&logoColor=white&labelColor=667eea)](https://github.com/davidjoshua87?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/davidjoshua87?style=for-the-badge&label=stars&logo=github&logoColor=white&labelColor=667eea)](https://github.com/davidjoshua87?tab=stars)
+[![GitHub forks](https://img.shields.io/github/forks/davidjoshua87?style=for-the-badge&label=forks&logo=github&logoColor=white&labelColor=667eea)](https://github.com/davidjoshua87?tab=repositories)
 
 > *"Code is poetry written in logic"* 🚀
 
