@@ -1,14 +1,10 @@
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Joshua+David+Shing;🚀+Frontend+Developer+%7C+React+%7C+Vue.js;✨+Crafting+Beautiful+Web+Experiences" alt="Typing Animation">
-  </p>
+  # 👋 Hi, I'm Joshua David Shing
 
-  ---
+## 🚀 Frontend Developer | React | Vue.js
 
-### 🎯 Passionate About Clean Code & Amazing User Experiences
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&width=700&lines=✨+Crafting+Beautiful+Web+Experiences;🎯+Passionate+About+Clean+Code;🔥+Loving+React+&+Vue.js)
 
-  <p align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Wave GIF">
-  </p>
+### 🌟 Passionate About Clean Code & Amazing User Experiences
 
   ---
 
@@ -165,7 +161,7 @@
 
   [![Followers](https://img.shields.io/github/followers/davidjoshua87?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea)](https://github.com/davidjoshua87?tab=followers)
   [![Stars](https://img.shields.io/github/stars/davidjoshua87?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea)](https://github.com/davidjoshua87?tab=stars)
-  [![Repositories](https://img.shields.io/github/repositories/davidjoshua87?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea)](https://github.com/davidjoshua87?tab=repositories)
+  [![Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdavidjoshua87)](https://github.com/davidjoshua87?tab=repositories)
 
   ---
 
@@ -214,5 +210,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2000&pause=1000&color=667eea&center=true&width=400&lines=Joshua+David+Shing;Frontend+Developer;Clean+Code+%26+Beautiful+UX" alt="Footer Typing">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=667eea&center=true&width=400&lines=Joshua+David+Shing;Frontend+Developer;Clean+Code+%26+Beautiful+UX" alt="Footer Typing">
 </p>
