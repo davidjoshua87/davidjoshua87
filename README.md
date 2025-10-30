@@ -1,8 +1,6 @@
 # Joshua David Shing
 
 ![Profile Views](https://komarev.com/ghpvc/?username=davidjoshua87&label=Profile%20Views&color=0e75b6&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/davidjoshua87?style=flat-square&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/davidjoshua87?style=flat-square&color=yellow)
 
 ---
 
@@ -126,9 +124,9 @@ crafting beautiful and responsive web applications with modern technologies.
 
 ## 📊 Profile Summary
 
-[![GitHub followers](https://img.shields.io/github/followers/davidjoshua87?style=for-the-badge&label=followers&logo=github&logoColor=white&labelColor=667eea)](https://github.com/davidjoshua87?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/davidjoshua87?style=for-the-badge&label=stars&logo=github&logoColor=white&labelColor=667eea)](https://github.com/davidjoshua87?tab=stars)
-[![GitHub forks](https://img.shields.io/github/forks/davidjoshua87?style=for-the-badge&label=forks&logo=github&logoColor=white&labelColor=667eea)](https://github.com/davidjoshua87?tab=repositories)
+[![GitHub followers](https://img.shields.io/badge/Followers-0-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidjoshua87?tab=followers)
+[![GitHub stars](https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidjoshua87?tab=stars)
+[![GitHub repositories](https://img.shields.io/badge/Repositories-0-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidjoshua87?tab=repositories)
 
 > *"Code is poetry written in logic"* 🚀
 
