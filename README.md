@@ -120,15 +120,15 @@ crafting beautiful and responsive web applications with modern technologies.
 
 ## 📈 Contribution Graph
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidjoshua87&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=davidjoshua87&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=ffffff)
 
 ---
 
-## 📊 Statistics
+## 📊 Additional Stats
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=davidjoshua87.davidjoshua87&style=flat-square&color=667eea)
-![GitHub stars](https://img.shields.io/github/stars/davidjoshua87?style=flat-square&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/davidjoshua87?style=flat-square&color=green)
+![All Repositories](https://img.shields.io/badge/Repos-Count-blue?style=flat-square&logo=github)
+![Total Commits](https://img.shields.io/badge/Commits-Tracking-brightgreen?style=flat-square&logo=github)
+![Last Updated](https://img.shields.io/badge/Updated-Today-important?style=flat-square&logo=github)
 
 > *"Code is poetry written in logic"* 🚀
 
