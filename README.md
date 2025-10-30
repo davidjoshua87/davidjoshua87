@@ -60,7 +60,7 @@
   </p>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=davidjoshua87&rank=SECRET,SSS,SS,S,AAA,AA,B&theme=radical&column=4&row=2&margin-w=15&margin-h=15&no-frame=true&bg_color=0D1117" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=davidjoshua87&theme=radical&column=4&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies">
   </p>
 
   ---
@@ -74,13 +74,13 @@
 
 ### 📈 Activity Overview
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidjoshua87&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff&include_all_commits=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidjoshua87&show_icons=true&theme=radical&hide_border=true)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjoshua87&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjoshua87&theme=radical&hide_border=true)
 
 ### 🔥 Contribution Heatmap
 
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davidjoshua87&theme=radical&bg_color=0D1117&color=667eea&line=667eea&point=ffffff&hide_border=true&radius=8&height=300)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davidjoshua87&theme=radical&hide_border=true)
 
   ---
 
